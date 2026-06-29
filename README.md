@@ -34,10 +34,10 @@
 ## 🎥 Demo
 
 <p align="center">
-  <img src="./assets/demo.gif" width="900" alt="ProspectPilot AI Demo">
+  <img src="./hero.png" width="900" alt="ProspectPilot AI Landing Page">
 </p>
 
-<p align="center"><i>📌 Replace <code>./assets/demo.gif</code> with your actual project demo recording.</i></p>
+<p align="center"><i>📌 Swap in a real screen recording at <code>./assets/demo.gif</code> once available — the landing page is shown above in the meantime.</i></p>
 
 ---
 
@@ -48,14 +48,14 @@
 | 🚀 Feature | 📝 Description |
 |:---|:---|
 | 🔐 **Secure Authentication** | JWT-based register/login with bcrypt password hashing |
-| 🧠 **AI-Powered Startup Insights** | Gemini 2.5 Flash generates deep, structured startup intelligence |
-| 📊 **Market Research Agent** | Analyzes market size, trends, and growth opportunities |
-| 🕵️ **Competitor Analysis Agent** | Identifies key competitors, strengths, and gaps |
-| 📈 **Startup Evaluation Agent** | Scores startup viability across key business dimensions |
-| 💰 **Investment Intelligence Agent** | Surfaces funding signals and investment-readiness insights |
+| 🧠 **Agentic AI Research** | Autonomous agents that plan, search, and synthesize — no prompt engineering needed |
+| 📊 **Market Research Agent** | TAM/SAM/SOM sizing, trend signal detection, regulatory landscape mapping |
+| 🕵️ **Competitor Analysis Agent** | Competitive moat scoring, funding round tracking, feature gap analysis |
+| 📈 **Startup Evaluation Agent** | Scores startups across 40+ metrics on an A–F grading scale |
+| 💰 **Investment Intelligence Agent** | Tracks $2T+ in deals across 3K+ investors for funding signals |
 | 🗂️ **Saved Reports Dashboard** | Access and manage all previously generated AI reports |
-| 🛡️ **JWT Protected Routes** | Role-secured backend APIs for authenticated access only |
-| ☁️ **Cloud Database** | MongoDB Atlas for scalable, reliable data persistence |
+| 🌍 **Global Market Coverage** | 50+ verticals across 20+ geographies with localized data sources |
+| 🛡️ **Enterprise Security** | SOC 2 compliant — proprietary data never trains the models |
 | 📱 **Responsive UI** | Sleek, mobile-friendly Tailwind CSS interface |
 
 </div>
@@ -66,34 +66,49 @@
 
 <div align="center">
 
-### Dashboard
-<img src="./screenshots/dashboard.png" width="800">
+### 🏠 Landing Page
+<img src="./hero.png" width="800">
 
-### Market Research Agent
-<img src="./screenshots/market-research.png" width="800">
+### ⚡ Platform Features
+<img src="./features.png" width="800">
 
-### Competitor Analysis
-<img src="./screenshots/competitor-analysis.png" width="800">
+### 🤖 AI Agents Overview
+<img src="./ai-agents.png" width="800">
 
-### Startup Evaluation
-<img src="./screenshots/startup-evaluation.png" width="800">
+### 💡 Why ProspectPilot
+<img src="./why-us.png" width="800">
 
-### Investment Intelligence
-<img src="./screenshots/investment-intelligence.png" width="800">
+### 📣 Call to Action
+<img src="./cta.png" width="800">
 
-### Reports Dashboard
-<img src="./screenshots/reports.png" width="800">
+### 📝 Sign Up
+<img src="./signup.png" width="800">
+
+### 🔑 Sign In
+<img src="./login.png" width="800">
+
+### 📊 Dashboard
+<img src="./dashboard.png" width="800">
+
+### 📈 Market Research Agent
+<img src="./market-research-agent.png" width="800">
+
+> 🕵️ **Competitor Analysis**, 💰 **Investment Intelligence**, and 🚀 **Startup Evaluation** agents share the same focused workspace layout shown above — just the agent icon, title, and quick-start prompts change per domain.
+
+### 📂 Reports
+<img src="./reports.png" width="800">
+
+### 🦶 Footer
+<img src="./footer.png" width="800">
 
 </div>
-
-> 📌 *Replace the image paths above with your actual screenshots inside the `/screenshots` directory.*
 
 ---
 
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="file:///C:/Users/krish/Downloads/prospectpilot_ai_hardcoded.html" width="100%" alt="System Architecture">
+  <img src="./architecture/prospectpilot-architecture.png" width="100%" alt="System Architecture">
 </p>
 
 > ProspectPilot AI follows a **modular multi-agent architecture**, where independent AI agents communicate with the Gemini API and persist insights to MongoDB Atlas — enabling each agent (Market Research, Competitor Analysis, Startup Evaluation, Investment Intelligence) to operate, scale, and evolve independently.
