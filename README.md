@@ -25,13 +25,49 @@
 
 <br>
 
-[**🎥 Demo**](#-demo) • [**✨ Features**](#-features) • [**🏗️ Architecture**](#%EF%B8%8F-system-architecture) • [**⚙️ Installation**](#%EF%B8%8F-installation-guide) • [**📡 API**](#-api-endpoints) • [**🤝 Contributing**](#-contributors)
+[**📖 About**](#-about-the-project) • [**✨ Features**](#-features) • [**🖼️ Screenshots**](#%EF%B8%8F-screenshots) • [**⚙️ Installation**](#%EF%B8%8F-installation-guide) • [**📡 API**](#-api-endpoints) • [**🤝 Contributing**](#-contributors)
 
 </div>
 
 ---
 
+## 📖 About The Project
 
+**ProspectPilot AI** is an **agentic AI platform** that replaces weeks of manual startup and market research with autonomous AI agents that do the digging for you.
+
+> Traditional research is slow, scattered across spreadsheets, and surface-level. ProspectPilot deploys four specialized agents that pull from market data, competitor signals, funding databases, and startup metrics — then synthesize everything into a structured, decision-ready report in minutes.
+
+### 🎯 The Problem
+
+Founders, analysts, and investors waste days digging through scattered sources — news, SEC filings, competitor sites, market reports — just to answer simple questions like *"Is this market worth entering?"* or *"Is this startup fundable?"*
+
+### 💡 The Solution
+
+ProspectPilot AI gives you **four autonomous agents on one platform**, each purpose-built for a distinct intelligence domain:
+
+| Agent | What it answers |
+|:---|:---|
+| 📊 **Market Research** | *How big is this market, and is it growing?* |
+| 🕵️ **Competitor Analysis** | *Who am I really up against, and where are the gaps?* |
+| 📈 **Startup Evaluation** | *Is this startup fundable — and how does it score?* |
+| 💰 **Investment Intelligence** | *Where is capital flowing, and who's writing the checks?* |
+
+### ⭐ Why It's Useful
+
+- **🚀 10x faster** than manual research — minutes, not weeks
+- **🧠 Zero prompt-engineering required** — just describe what you need in plain English
+- **📚 Source-backed** — every insight is traceable, not a black-box guess
+- **🌍 Broad coverage** — 50+ market verticals across 20+ geographies
+- **📈 Built for real decisions** — outputs are structured for board decks and investment memos, not just casual reading
+- **🔓 Accessible to everyone** — works equally well for a pre-seed founder validating an idea and a Series C investor doing diligence
+
+### 👥 Who It's For
+
+- **Founders** validating a new market or idea before building
+- **Investors & analysts** screening deals and tracking competitive landscapes
+- **Business strategists** who need fast, structured intelligence without a research team
+
+---
 
 ## ✨ Features
 
@@ -96,8 +132,6 @@
 </div>
 
 ---
-
-
 
 ## 🔄 Workflow
 
@@ -227,10 +261,6 @@ GEMINI_API_KEY=
 </div>
 
 ---
-
-
-
-
 
 <div align="center">
 
