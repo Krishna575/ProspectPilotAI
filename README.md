@@ -93,7 +93,7 @@
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="./architecture/prospectpilot-architecture.png" width="100%" alt="System Architecture">
+  <img src="file:///C:/Users/krish/Downloads/prospectpilot_ai_hardcoded.html" width="100%" alt="System Architecture">
 </p>
 
 > ProspectPilot AI follows a **modular multi-agent architecture**, where independent AI agents communicate with the Gemini API and persist insights to MongoDB Atlas — enabling each agent (Market Research, Competitor Analysis, Startup Evaluation, Investment Intelligence) to operate, scale, and evolve independently.
