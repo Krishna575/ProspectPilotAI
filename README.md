@@ -31,15 +31,7 @@
 
 ---
 
-## 🎥 Demo
 
-<p align="center">
-  <img src="./hero.png" width="900" alt="ProspectPilot AI Landing Page">
-</p>
-
-<p align="center"><i>📌 Swap in a real screen recording at <code>./assets/demo.gif</code> once available — the landing page is shown above in the meantime.</i></p>
-
----
 
 ## ✨ Features
 
@@ -105,15 +97,7 @@
 
 ---
 
-## 🏗️ System Architecture
 
-<p align="center">
-  <img src="./architecture/architecture_prospectpilotai.html" width="100%" alt="System Architecture">
-</p>
-
-> ProspectPilot AI follows a **modular multi-agent architecture**, where independent AI agents communicate with the Gemini API and persist insights to MongoDB Atlas — enabling each agent (Market Research, Competitor Analysis, Startup Evaluation, Investment Intelligence) to operate, scale, and evolve independently.
-
----
 
 ## 🔄 Workflow
 
@@ -244,52 +228,9 @@ GEMINI_API_KEY=
 
 ---
 
-## 🔮 Future Enhancements
 
-- 📄 PDF Export of AI-generated reports
-- 🤖 Multi-LLM Support (OpenAI, Claude, Mistral)
-- 📡 Real-Time Market Data Integration
-- 🎙️ Voice-Based Interaction
-- 📚 RAG (Retrieval-Augmented Generation) Integration
-- 👥 Team Collaboration Workspaces
-- 📊 Analytics Dashboard with Trend Insights
 
----
 
-## 🤝 Contributors
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/<username>">
-        <img src="https://github.com/identicons/<username>.png" width="80" height="80" style="border-radius:50%"><br>
-        <sub><b>Your Name</b></sub>
-      </a><br>
-      <sub>Founder & Lead Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/<username2>">
-        <img src="https://github.com/identicons/<username2>.png" width="80" height="80" style="border-radius:50%"><br>
-        <sub><b>Teammate Name</b></sub>
-      </a><br>
-      <sub>Contributor</sub>
-    </td>
-  </tr>
-</table>
-
-*Want to contribute? Pull requests are warmly welcome!* 🎉
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
