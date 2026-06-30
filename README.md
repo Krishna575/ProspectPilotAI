@@ -25,7 +25,7 @@
 
 <br>
 
-[**📖 About**](#-about-the-project) • [**✨ Features**](#-features) • [**🖼️ Screenshots**](#%EF%B8%8F-screenshots) • [**⚙️ Installation**](#%EF%B8%8F-installation-guide) • [**📡 API**](#-api-endpoints) • [**🤝 Contributing**](#-contributors)
+[**📖 About**](#-about-the-project) • [**✨ Features**](#-features) • [**🖼️ Screenshots**](#%EF%B8%8F-screenshots) • [**⚙️ Installation**](#%EF%B8%8F-installation-guide) • [**📡 API**](#-api-endpoints)
 
 </div>
 
